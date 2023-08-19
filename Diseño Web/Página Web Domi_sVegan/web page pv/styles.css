@@ -1,0 +1,195 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #e6ffea;
+  color: #333;
+}
+
+.header {
+  background-color: #4caf50;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.menu-toggle {
+  display: none;
+  cursor: pointer;
+}
+
+.menu {
+  padding: 1rem;
+}
+
+.menu h2 {
+  border-bottom: 2px solid #4caf50;
+  padding-bottom: 0.5rem;
+  color: #4caf50;
+}
+
+.menu ul {
+  list-style: none;
+  padding: 0;
+}
+
+.menu li {
+  margin-bottom: 2rem;
+}
+
+.menu img {
+  max-width: 100%;
+  height: auto;
+}
+
+#quienes-somos {
+  background-color: #dcedc8;
+  padding: 2rem;
+  color: #333;
+}
+
+#quienes-somos h3 {
+  color: #4caf50;
+}
+
+.redes-sociales {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+.redes-sociales li {
+  margin-right: 1rem;
+}
+
+.footer {
+  background-color: #4caf50;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+/* Estilos adicionales */
+
+#domicilios .boton-domicilio {
+  display: inline-block;
+  padding: 0.8rem 1.5rem;
+  background-color: #4caf50;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+#domicilios .boton-domicilio:hover {
+  background-color: #45a049;
+}
+
+#inicio p,
+#conocenos p {
+  margin-bottom: 1rem;
+}
+
+#conocenos p:last-child {
+  margin-bottom: 0;
+}
+
+.login-form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+}
+
+.login-form h2 {
+  color: #4caf50;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button[type="submit"] {
+  display: block;
+  width: 100%;
+  padding: 0.8rem;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+/* Estilos anteriores */
+
+.login-form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+}
+
+.login-form h2 {
+  color: #4caf50;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button[type="submit"] {
+  display: block;
+  width: 100%;
+  padding: 0.8rem;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+
